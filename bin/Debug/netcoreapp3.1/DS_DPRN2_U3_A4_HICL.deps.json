@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DS_DPRN2_U3_A4_HICL/1.0.0": {
+        "runtime": {
+          "DS_DPRN2_U3_A4_HICL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DS_DPRN2_U3_A4_HICL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

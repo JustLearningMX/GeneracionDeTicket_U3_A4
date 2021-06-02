@@ -1,0 +1,13 @@
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\bin\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.exe
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\bin\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.deps.json
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\bin\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.runtimeconfig.json
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\bin\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.runtimeconfig.dev.json
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\bin\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.dll
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\bin\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.pdb
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.csprojAssemblyReference.cache
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.AssemblyInfoInputs.cache
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.AssemblyInfo.cs
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.csproj.CoreCompileInputs.cache
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.dll
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.pdb
+C:\Users\marih\Documents\.NET Projects\DS_DPRN2_U3_A4_HICL\obj\Debug\netcoreapp3.1\DS_DPRN2_U3_A4_HICL.genruntimeconfig.cache
